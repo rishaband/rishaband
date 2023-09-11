@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available in my GitHuub page
 
 - 📫 How to reach me: **Visit my LinkedIn attached to my GitHub page or email me @rishabb.annand@gmail.com**
+- 📖 I'm a first year currently studying **Computer Engineering at the University of Waterloo**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
