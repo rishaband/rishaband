@@ -2,14 +2,15 @@
 <h1 align="center">Hi 👋, I'm Rishab!</h1>
 
 
-- 🔭 I’m currently working on **Spotify Scraper**
+- 🔭 I’m currently working on **Spotify Playlist Scraper**
 
 - 🌱 I’m currently learning **C++ and theoretical SQL**
 
-- 👨‍💻 All of my projects are available in my GitHuub page
+- 👨‍💻 All of my projects are available on my GitHuub page
 
 - 📫 How to reach me: **Visit my LinkedIn attached to my GitHub page or email me @rishabb.annand@gmail.com**
-- 📖 I'm a first year currently studying **Computer Engineering at the University of Waterloo**  
+- 📖 I'm a first year currently studying **Computer Engineering at the University of Waterloo**
+- I enjoy all types of software development! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishaband&show_icons=true&locale=en&layout=compact" alt="rishaband" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishaband&show_icons=true&locale=en" alt="rishaband" /></p>
+
