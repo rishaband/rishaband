@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rishab!</h1>
 
 
-- 🔭 I’m currently working on **Python Trading Bot**
 
-- 🌱 I’m currently learning **JavaScipt and theoretical SQL**
 
 - 📫 How to reach me: **Visit my LinkedIn attached to my GitHub page or email me @rishabb.annand@gmail.com**
 - 📖 I'm a first year currently studying **Computer Engineering at the University of Waterloo**
