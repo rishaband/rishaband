@@ -1,5 +1,6 @@
 # Hi, I'm Rishab
-![brain](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJjNTNwN2pvbGM2NnZvZ2o2MTRweW5mcXFkYmlodTNndWpiNG5hdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkdIhnHHnFma6xvICt/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJjNTNwN2pvbGM2NnZvZ2o2MTRweW5mcXFkYmlodTNndWpiNG5hdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkdIhnHHnFma6xvICt/giphy.gif" width="300" alt="Cool GIF" />
+
 
 
 
