@@ -1,7 +1,7 @@
 # Hi, I'm Rishab
 
 
-![Nyan Cat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJjNTNwN2pvbGM2NnZvZ2o2MTRweW5mcXFkYmlodTNndWpiNG5hdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkdIhnHHnFma6xvICt/giphy.gif)
+![Nyan Cat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR0enE2OW5mNXludDZyM290MHEwdTIzMDNkbm80eXUwOHF2aGk0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YS57N6teaevJASvcMA/giphy.gif)
 
 
 
