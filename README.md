@@ -21,4 +21,4 @@ I'm interested in machine learning, quant finance, and software development!
 [linkedin](https://www.linkedin.com/in/rishabanand/)  
 [my personal website](https://rishabanand.com/)  
 [email](mailto:r25anand@uwaterloo.ca)  
-[x(twitter)](https://x.com/rishabbanand)
+[x](https://x.com/rishabbanand)
