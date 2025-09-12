@@ -10,10 +10,11 @@
 I'm interested in machine learning, quant finance, and software development!
 
 ## About Me  
-- currently doing my 4th internship this summer as a Data & AI Intern @ Day5 Analytics
+- finished my 4th internship this summer(Data Engineering Intern)
 - Working as a Quant developer @watstreet
 - studying computer engineering at the university of waterloo
 - previously @prgxglobal as a Data Science Intern, @walkerindustries as a Machine Learning Intern and @TTEC as a Systems Analyst Intern
+- Not super active on GitHub with my work due to confidentiality, please reach out to me personally for my research and ongoing ML and finance initiatives. This includes Quant Research in HAR-RV model(which is being done with Waterloo engineers), Multitask Learning research in the context of biomedical segmentation which will include a classification extension, and lastly, the recursive tree algorithm for similarity searches between financial tickers. 
 
 ## Get In Touch
 
