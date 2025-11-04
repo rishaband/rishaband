@@ -10,11 +10,11 @@
 I'm interested in machine learning, quant finance, and software development!
 
 ## About Me  
-- finished my 4th internship this summer(Data Engineering Intern)
+- joining ford motor company this winter as a swe intern on their ml team 
 - Working as a Quant developer @watstreet
 - studying computer engineering at the university of waterloo
-- previously @prgxglobal as a Data Science Intern, @walkerindustries as a Machine Learning Intern and @TTEC as a Systems Analyst Intern
-- Please reach out to me personally for my research and ongoing ML and finance initiatives. This includes Quant Research in HAR-RV model(which is being done with Waterloo engineers), Multitask Learning research in the context of biomedical segmentation which will include a classification extension, and lastly, the recursive tree algorithm for similarity searches between financial tickers. 
+- previously @day5 as a Data Engineering Intern, @prgxglobal as a Data Science Intern, @walkerindustries as a Software Engineer Intern and @TTEC as a TPM intern 
+
 
 ## Get In Touch
 
