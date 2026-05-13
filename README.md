@@ -7,13 +7,12 @@
 
 
 
-I'm interested in machine learning, quant finance, and software development!
+I'm interested in software development and quant finance!
 
 ## About Me  
-- joining ford motor company this winter as a swe intern on their ml team 
 - Working as a Quant developer @watstreet
 - studying computer engineering at the university of waterloo
-- previously @day5 as a Data Engineering Intern, @prgxglobal as a Data Science Intern, @walkerindustries as a Software Engineer Intern and @TTEC as a TPM intern 
+- previously @ford, @johnson&johnson, @day5, @ardian, @stealth 
 
 
 ## Get In Touch
